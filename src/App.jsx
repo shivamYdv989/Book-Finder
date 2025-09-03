@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="body">
       <h1 className="designer">
-        Designed by ❤️ <strong>Shivam Yadav</strong>
+        Designed by <strong>Shivam Yadav</strong>
       </h1>
 
       <h1>📚Find Your Book of Choice.</h1>
